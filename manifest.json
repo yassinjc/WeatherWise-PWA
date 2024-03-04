@@ -1,0 +1,22 @@
+{
+  "short_name": "WeatherWise",
+  "name": "WeatherWise",
+  "icons": [
+    {
+      "src": "/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "i490557.hera.fhict.nl/rain-radar/index.html",
+  "start_url": "i490557.hera.fhict.nl/rain-radar/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#34BAB2",
+  "theme_color": "#34BAB2"
+}
